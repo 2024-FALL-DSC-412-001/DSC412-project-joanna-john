@@ -11,6 +11,7 @@ This project explores the Employee Turnover Analytics Dataset from [Kaggle](http
 
 ## File Read Order
 
+<<<<<<< HEAD
 This is the order of how the project files should be looked at.
 
 ### Read Me Markdown File
