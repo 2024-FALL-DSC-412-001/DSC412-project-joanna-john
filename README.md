@@ -11,7 +11,6 @@ This project explores the Employee Turnover Analytics Dataset from [Kaggle](http
 
 ## File Read Order
 
-<<<<<<< HEAD
 This is the order of how the project files should be looked at.
 
 ### Read Me Markdown File
@@ -35,8 +34,4 @@ Project Code from 11/2/24
 
 ### Milestone 5
 
-<<<<<<< HEAD
 - DSC412_001_FA24_PV_jljohn.mp4 (Video Presentation from 11/20/24)
-=======
-- DSC412_001_FA24_PV_jljohn.mp4 (Video Presentation from 11/20/24)
->>>>>>> 3cc673663d242bd85b5c08ca83715d82d54b7ee1
